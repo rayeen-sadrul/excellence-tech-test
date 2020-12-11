@@ -42,6 +42,8 @@ This project is used to register the candidates and when candidates perform any 
 
 ### How to build
 cmd> cd /{project root path}
+
+
 cmd> npm install
 
 ### How to run
@@ -75,6 +77,8 @@ payload: {
 
 #### How to execute
 cmd> /{root of the project}
+
+
 cmd> npm test
 
 #### Test case report
